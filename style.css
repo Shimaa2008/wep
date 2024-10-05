@@ -1,0 +1,48 @@
+* Global Styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #FEFAE0;
+}
+
+header {
+  background-color: #BC6C28;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+h1, h2 {
+  margin: 10px;
+}
+
+p {
+  color: #45462A;
+}
+
+nav a {
+  color: #D4A373;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 15px;
+}
+
+section {
+  text-align: center;
+  margin: 50px 0;
+}
+
+button {
+  background-color: #606C38;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  margin: 15px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #BC6C28;
+}
